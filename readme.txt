@@ -29,8 +29,7 @@ Align Parameters: left, right, and center
 
 Thank you for using SCI Shortcode Plugin for WordPress. I hope this plugin will provide you with useful functionality.
 
-Regards,
-Lodel Geraldo
+-Lodel Geraldo-
 
 == Compatibility ==
 
