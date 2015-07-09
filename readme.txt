@@ -1,9 +1,9 @@
 === Simple Code Insert Shortcode ===
 
-Author: developersnote
+Author: Lodel Geraldo(developersnote)
 Author URI: http://www.developersnote.net
 Contributors: Lodel Geraldo
-Donate link: http://www.developersnote.net/portfolio/simple-code-insert-plugin/
+Donate link: http://www.developersnote.net/donate/
 Tags: simple code insert shortcode, simple code insert, simple code embed
 Requires at least: 3.0.1
 Tested up to: 4.2.2
