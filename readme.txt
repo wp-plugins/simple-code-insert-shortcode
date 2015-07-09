@@ -13,9 +13,6 @@ Preface
 
 Thank you for using SCI Shortcode Plugin for WordPress. I hope this plugin will provide you with useful functionality.
 
-Best regards,
-Lodel Geraldo
-
 == Description ==
 
 SCI Shortcode Plugin for WordPress allows you to insert or embed codes in posts, pages, and sidebars. 
