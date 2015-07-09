@@ -23,10 +23,8 @@ Example Shortcode:
 
 [scis id="1" align="center"]
 
-Align Parameters:
-- right
-- left
-- center
+Align Parameters: left, right, and center
+
 
 == Compatibility ==
 
