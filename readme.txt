@@ -1,0 +1,60 @@
+=== Simple Code Insert Shortcode ===
+
+Version: 1.0
+
+Author: Lodel Geraldo(developersnote)
+Author URI: http://www.developersnote.net
+Requires at least: 3.3
+Usage: Full
+Donate link: http://www.developersnote.net/portfolio/simple-code-insert-plugin/
+Tags: simple code insert shortcode, simple code insert, simple code embed
+
+Preface
+
+Thank you for using SCI Shortcode Plugin for WordPress. I hope this plugin will provide you with useful functionality. I'll be thankful for any feedback.
+
+Best regards,
+Lodel Geraldo
+
+== Description ==
+
+SCI Shortcode Plugin for WordPress allows you to insert or embed codes in posts, pages, and sidebars. 
+
+This is very useful for embedding videos, images, banner ads, and etc. The best thing about this plugin is that you only use shortcodes in order to display everything you want.
+
+== Compatibility ==
+
+SCI Shortcode Plugin requires PHP 5 and WordPress 3.3.1 or higher.
+
+== Installation ==
+
+The installation is simple. You can download the .zip file and upload it via WordPress Admin Panel (Plugins -> Add new -> Upload).
+
+Activate plugin via (Plugins -> Installed plugins -> Simple Code Insert Shortcode -> Activate). 
+
+After installing the plugin, you can now add entries and use the plugin as how it works.
+
+== Screenshots ==
+
+1. wp-content/plugins/simplecodeinsertshortcode/_inc/images/simple-code-insert-plugin-screenshot.png
+
+== Changelog ==
+
+= July 07, 2015 =
+* First release
+* Version 1.0
+
+== Thank you ==
+
+
+
+That's all - I hope that you'll like my plugin. Any suggestions, questions and other feedback will be welcomed on developersnoteofficial@gmail.com
+
+
+
+Sincerely yours,
+
+Lodel Geraldo
+
+
+
