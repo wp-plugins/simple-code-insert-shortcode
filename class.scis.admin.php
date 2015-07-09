@@ -182,6 +182,7 @@ class Scis_Admin{
 
     private static function scis_clean_string($string)
 	{
+		$string = strtolower($string);
 	    $str_data = preg_replace('/[^a-z0-9 -]+/', '', $string);
 	    return $str_data; 
 	}
