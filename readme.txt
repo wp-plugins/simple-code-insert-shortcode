@@ -11,7 +11,7 @@ Tags: simple code insert shortcode, simple code insert, simple code embed
 
 Preface
 
-Thank you for using SCI Shortcode Plugin for WordPress. I hope this plugin will provide you with useful functionality. I'll be thankful for any feedback.
+Thank you for using SCI Shortcode Plugin for WordPress. I hope this plugin will provide you with useful functionality.
 
 Best regards,
 Lodel Geraldo
@@ -21,6 +21,15 @@ Lodel Geraldo
 SCI Shortcode Plugin for WordPress allows you to insert or embed codes in posts, pages, and sidebars. 
 
 This is very useful for embedding videos, images, banner ads, and etc. The best thing about this plugin is that you only use shortcodes in order to display everything you want.
+
+Example Shortcode:
+
+[scis id="1" align="center"]
+
+Align Parameters:
+- right
+- left
+- center
 
 == Compatibility ==
 
