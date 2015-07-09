@@ -2,7 +2,7 @@
 
 Author: Lodel Geraldo
 Author URI: http://www.developersnote.net
-Contributors: Lodel Geraldo(developersnote)
+Contributors: Lodel Geraldo
 Donate link: http://www.developersnote.net/portfolio/simple-code-insert-plugin/
 Tags: simple code insert shortcode, simple code insert, simple code embed
 Requires at least: 3.0.1
