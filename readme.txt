@@ -1,6 +1,6 @@
 === Simple Code Insert Shortcode ===
 
-Author: Lodel Geraldo
+Author: developersnote
 Author URI: http://www.developersnote.net
 Contributors: Lodel Geraldo
 Donate link: http://www.developersnote.net/portfolio/simple-code-insert-plugin/
