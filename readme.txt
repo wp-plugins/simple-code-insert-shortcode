@@ -23,6 +23,8 @@ Example Shortcode:
 
 Align Parameters: left, right, and center
 
+Thank you for using SCI Shortcode Plugin for WordPress. I hope this plugin will provide you with useful functionality.
+
 == Compatibility ==
 
 SCI Shortcode Plugin requires PHP 5 and WordPress 3.3.1 or higher.
