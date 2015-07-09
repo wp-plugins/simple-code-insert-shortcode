@@ -25,6 +25,9 @@ Align Parameters: left, right, and center
 
 Thank you for using SCI Shortcode Plugin for WordPress. I hope this plugin will provide you with useful functionality.
 
+Regards,
+Lodel Geraldo
+
 == Compatibility ==
 
 SCI Shortcode Plugin requires PHP 5 and WordPress 3.3.1 or higher.
@@ -39,7 +42,9 @@ After installing the plugin, you can now add entries and use the plugin as how i
 
 == Screenshots ==
 
-1. wp-content/plugins/simplecodeinsertshortcode/_inc/images/simple-code-insert-plugin-screenshot.png
+1. screenshot-1.(png|jpg|jpeg|gif).
+2. screenshot-2.(png|jpg|jpeg|gif).
+3. screenshot-3.(png|jpg|jpeg|gif).
 
 == Changelog ==
 
