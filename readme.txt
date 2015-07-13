@@ -45,9 +45,9 @@ After installing the plugin, you can now add entries and use the plugin as how i
 
 == Screenshots ==
 
-1. screenshot-1.(png|jpg|jpeg|gif).
-2. screenshot-2.(png|jpg|jpeg|gif).
-3. screenshot-3.(png|jpg|jpeg|gif).
+1. SCI Shortcode Dashboard
+2. Sample shortcode in post
+3. Sample display in post
 
 == Changelog ==
 
